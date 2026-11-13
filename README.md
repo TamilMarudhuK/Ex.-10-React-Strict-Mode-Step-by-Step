@@ -1,6 +1,6 @@
 # Ex.-10-React-Strict-Mode-Step-by-Step
 ## Name: TAMIL MARUDHU K
-## Roll no: 2305001003
+## Roll no: 2305001033
 ## Department: CSE
 
 ## AIM
